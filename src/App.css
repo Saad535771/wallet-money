@@ -1,0 +1,88 @@
+.Spacecenter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.head{
+  font-weight: bold;
+}
+
+.a-m{
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+}
+.line{
+  background-color: black;
+  width: 4px;
+  height: 80px;
+  border-radius: 10px;
+}
+.MuiTabs-flexContainer.css-heg063-MuiTabs-flexContainer {
+  float: right;
+  padding-right: 33px;
+}
+
+button.MuiButtonBase-root.MuiTab-root.MuiTab-textColorPrimary.css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+  font-weight: 700;
+}
+.head{
+  font-weight: bold;
+}
+
+.a-m{
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+  
+}
+.span-text{
+  color: blue;
+}
+
+.box-img-1{
+  display: flex;
+  justify-content: center;
+}
+.lineBottom{
+  border: 1px;
+  border-bottom: 1px;
+  width:100%;
+  height:20px;
+  color:black
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/* .MuiTableCell-root{border-bottom: none !important; }  */
